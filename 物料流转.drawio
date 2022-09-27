@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T14:23:09.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Hrfo26Gy9NMZ7aa-AuOY" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T14:27:09.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XAh_V8A7YVg8UBRmKaHJ" version="20.3.3" type="github">
   <diagram id="cJSKPsWzPktaRWkqyph6" name="第 1 页">
-    <mxGraphModel dx="757" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0sCByd0zpsYbylT50Fxj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="130" y="100" width="730" height="560" as="geometry" />
+          <mxGeometry x="130" y="100" width="960" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="0sCByd0zpsYbylT50Fxj-5" value="&lt;p style=&quot;line-height: 2.2;&quot;&gt;&lt;br&gt;&lt;br&gt;Webpack+Typescript&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="170" width="590" height="100" as="geometry" />
+        <mxCell id="0sCByd0zpsYbylT50Fxj-5" value="&lt;p style=&quot;line-height: 3.2; font-size: 14px;&quot;&gt;&lt;br&gt;&lt;br&gt;Webpack+Typescript&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="570" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="180" width="550" height="60" as="geometry" />
+          <mxGeometry x="240" y="190" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-3" value="ES Module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="0sCByd0zpsYbylT50Fxj-6">
-          <mxGeometry width="250" height="60" as="geometry" />
+          <mxGeometry width="250.00000000000003" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-4" value="UMD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="0sCByd0zpsYbylT50Fxj-6">
-          <mxGeometry x="250" width="300" height="60" as="geometry" />
+          <mxGeometry x="270" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-8" value="NPM Publish" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="250" height="160" as="geometry" />
+          <mxGeometry x="220" y="300" width="260" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="0sCByd0zpsYbylT50Fxj-13" value="本地服务+确认发布CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="480" y="300" width="290" height="160" as="geometry" />
+        <mxCell id="0sCByd0zpsYbylT50Fxj-13" value="本地服务+确认发布CDN平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="495" y="300" width="290" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="220" y="480" width="540" height="90" as="geometry" />
+          <mxGeometry x="220" y="480" width="560" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-14" value="搭建平台版本管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="490" width="110" height="80" as="geometry" />
+          <mxGeometry x="240" y="490" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-17" value="v1.5.0" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="70" height="20" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="0sCByd0zpsYbylT50Fxj-24" value="&lt;font color=&quot;#ea6b66&quot;&gt;启用为生产&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="542.5" y="510" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0sCByd0zpsYbylT50Fxj-26" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 19px;&quot;&gt;搭建平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#EA6B66;strokeColor=#d6b656;fontSize=11;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="200" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
